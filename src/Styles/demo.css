@@ -1,0 +1,17 @@
+.Experince {
+    /* margin-top: 70%; */
+    top: 100px;
+    position: relative;
+  }
+  .CloudTag {
+    bottom: 100px;
+    position: relative;
+  }
+  
+  .project {
+    top: 30px;
+    position: relative;
+  }
+  .o {
+    margin-bottom: 60px;
+  }
