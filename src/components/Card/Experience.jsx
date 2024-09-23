@@ -6,14 +6,13 @@ const Experience = () => {
       <div className="Experience">
         <h1 className="my-16 text-4xl text-white">Experience</h1>
 
-        <section class="card-list ">
+        <section class="card-list items-center justify-center ">
           <article class="card">
             <header class="card-header">
-              <p>JAN 2023 - PRESENT</p>
-              <p className="text-left">- Full stack web development intern.</p>
+              <p>JUL - SEP 2023</p>
+              <p className="text-left">- Frontend Developer Intern</p>
               <p className="text-left">
-                - Worked with react, nextjs and tailwind to build website's for
-                the clients.
+                - Worked with Nextjs, Tailwind and APIs to build Dashboard for the company.
               </p>
             </header>
 
@@ -34,7 +33,7 @@ const Experience = () => {
 
               <div class="author-name">
                 <div class="author-name-prefix text-white">INTERNSHIP</div>
-                CODELANCE DEVS
+                PSup
               </div>
             </div>
 
@@ -44,12 +43,12 @@ const Experience = () => {
           </article>
           <article class="card">
             <header class="card-header">
-              <p>JAN 2023 - PRESENT</p>
+              <p>MAR - JUL 2024 </p>
               <p className="text-left">
-                - Working as a Front End developer intern.
+                - Worked as Full Stack Developer
               </p>
               <p className="text-left">
-                - Worked with Next.js, tailwind and Node.js.
+                - Worked with Flutter, Payment Gateway and Figma.
               </p>
             </header>
 
@@ -65,12 +64,13 @@ const Experience = () => {
               </svg>
 
               <div class="author-name">
-                <div class="author-name-prefix text-white">INTERNSHIP</div>
-                RENTYAAR
+                <div class="author-name-prefix text-white">FreeLancing</div>
+                KISAAN24
               </div>
             </div>
           </article>
-          <article class="card">
+          
+          {/* <article class="card">
             <header class="card-header">
               <p>FEB 2023 - PRESENT</p>
               <p className="text-left">
@@ -96,8 +96,8 @@ const Experience = () => {
                 INTERNSHALA
               </div>
             </div>
-          </article>
-          <article class="card">
+          </article> */}
+          {/* <article class="card">
             <header class="card-header">
               <p>JUN 2022 - PRESENT</p>
               <p className="text-left">
@@ -125,8 +125,8 @@ const Experience = () => {
               </div>
             </div>
 
-            <div class="tags">{/* <a href="#">Certificates</a> */}</div>
-          </article>
+            <div class="tags"></div>
+          </article> */}
 
           <article class="card">
             <header class="card-header">
