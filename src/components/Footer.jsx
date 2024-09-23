@@ -11,7 +11,7 @@ export const Footer = () => {
         >
           <img src={zeusLogo} className="h-8 mr-3" alt="Lord Zeus Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-            Lord Zeus
+            Puneet Chhabra
           </span>
         </a>
         <ul className="flex flex-wrap items-center mb-6 text-sm text-white sm:mb-0 dark:text-white ">
@@ -26,7 +26,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/arnavshukla/"
+              href="https://www.linkedin.com/in/puneet-chhabra-3089b621b/"
               target="_blank"
               className="mr-4 hover:underline md:mr-6 text-white"
             >
@@ -35,7 +35,7 @@ export const Footer = () => {
           </li>
           <li>
             <a
-              href="https://github.com/thelordzeus"
+              href="https://github.com/puneeeeeeet"
               target="_blank"
               className="mr-4 hover:underline md:mr-6 text-white"
             >
@@ -43,13 +43,7 @@ export const Footer = () => {
             </a>
           </li>
           <li>
-            <a
-              href="https://www.linkedin.com/in/arnavshukla/recent-activity/shares/"
-              target="_blank"
-              className="hover:underline text-white"
-            >
-              Blog
-            </a>
+            
           </li>
         </ul>
       </div>

@@ -23,7 +23,7 @@ const Projects = () => {
   
               <div class="tags space-x-2">
                 <a href="https://altruize.vercel.app/">Live</a>
-                <a href="https://github.com/zeeshan8281/Altruize">Code</a>
+                <a href="https://github.com/puneeeeeeet">Code</a>
               </div>
             </article>
             <article class="card">

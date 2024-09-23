@@ -45,7 +45,7 @@ const Hero = () => {
                 <div>
                   <a
                     className="flex items-center text-white"
-                    href="https://github.com/thelordzeus"
+                    href="https://github.com/puneeeeeeet"
                   >
                     <AiOutlineGithub />
                     &nbsp;&nbsp;&nbsp;Github
@@ -63,7 +63,7 @@ const Hero = () => {
                 <div>
                   <a
                     className="flex items-center text-white"
-                    href="https://twitter.com/iamlordzeus"
+                    href="https://x.com/Puneeeeeeet"
                   >
                     <AiOutlineTwitter />
                     &nbsp;&nbsp;&nbsp;Twitter
@@ -72,7 +72,7 @@ const Hero = () => {
                 <div>
                   <a
                     className="flex items-center text-white"
-                    href="https://www.instagram.com/thelordzeus_"
+                    href="https://www.instagram.com/puneetchhabra07"
                   >
                     <AiOutlineInstagram />
                     &nbsp;&nbsp;&nbsp;Instagram
