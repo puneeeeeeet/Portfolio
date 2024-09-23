@@ -20,7 +20,7 @@ const Hero = () => {
               HELLO WORLD!
             </h1>
             <h1 className="text-4xl sm:text-7xl font-bold text-white text-left">
-              I'M ARNAV.
+              I'M Puneet Chhabra.
             </h1>
             <p className="text-gray-500 py-4 max-w-md text-left">
               Undergraduate in Computer Science with Blockchain from SRMIST
@@ -35,8 +35,8 @@ const Hero = () => {
                 src={profile}
                 alt="Profile"
               />
-              <a href="mailto:arnav55125@gmail.com">
-                <p className="text-base text-gray-500">arnav55125@gmail.com</p>
+              <a href="mailto:puneetchhabra1607@gmail.com">
+                <p className="text-base text-gray-500">puneetchhabra1607@gmail.com</p>
               </a>
             </div>
 

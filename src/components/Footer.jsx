@@ -1,5 +1,5 @@
 import { AiOutlineLink, AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
-import zeusLogo from "../components/zeusLogo.jpeg";
+import zeusLogo from "../components/zeusLogo.jpg";
 
 export const Footer = () => {
   return (
