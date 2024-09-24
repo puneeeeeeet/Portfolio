@@ -64,7 +64,7 @@ const Experience = () => {
               </svg>
 
               <div class="author-name">
-                <div class="author-name-prefix text-white">FreeLancing</div>
+                <div class="author-name-prefix text-white">Free Lance</div>
                 KISAAN24
               </div>
             </div>
@@ -130,13 +130,12 @@ const Experience = () => {
 
           <article class="card">
             <header class="card-header">
-              <p>6th - 9th August</p>
+              <p>16th JAN,2024</p>
               <p className="text-left">
-                - Team created an app for doctors to track patents and patient
-                medical history.
+                - Team created an app for students to connect with the college seniors.
               </p>
               <p className="text-left">
-                - The app uses REDIS and licence numbers to authorise doctors.
+                - To help students who have no-one to guide for their future. 
               </p>
             </header>
 
@@ -153,17 +152,16 @@ const Experience = () => {
 
               <div class="author-name">
                 <div class="author-name-prefix text-white">HACKATHON</div>
-                HACK O HEIST
+                IDEATHON-2024
               </div>
             </div>
           </article>
 
           <article class="card">
             <header class="card-header">
-              <p>March 2022 - May 2022</p>
+              <p>JUL- PRESENT 2024</p>
               <p className="text-left">
-                - Worked on 3 projects which were successfully merged into the
-                Main Project Repository.
+                - Working on a personal webiste of the customer to sell their courses online.
               </p>
             </header>
 
@@ -179,8 +177,8 @@ const Experience = () => {
               </svg>
 
               <div class="author-name">
-                <div class="author-name-prefix text-white">OPEN SOURCE</div>
-                GirlScript SoC'22
+                <div class="author-name-prefix text-white">Free Lance</div>
+                Brainstreamlinear
               </div>
             </div>
           </article>

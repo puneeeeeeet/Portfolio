@@ -5,7 +5,7 @@ const NavBar = () => {
         <h1 className="text-white font-bold text-2xl">Puneet Chhabra</h1>
         <div className="  ml-auto z-10">
           <div className="ml-16 no-underline space-x-3 text-red-600">
-            <a href="https://www.linkedin.com/in/arnavshukla/recent-activity/shares/" target="_blank">Resume</a>
+            <a href="https://drive.google.com/file/d/1mnvz1Ih4PihRn7n_qSnXEF758-qPZ8ZS/view?usp=drive_link" target="_blank"   >Resume</a>
            
           </div>
         </div>
