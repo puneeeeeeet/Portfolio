@@ -23,10 +23,8 @@ const Hero = () => {
               I'M Puneet Chhabra.
             </h1>
             <p className="text-gray-500 py-4 max-w-md text-left">
-              Undergraduate in Computer Science with Blockchain from SRMIST
-              India. Learning the ins and outs of web development currently.
-              Frontend and iOS development are my strong suits, but I'm also
-              exploring WEB3 development.
+              Final year Computer Science Engineering student with hands-on experience in web development, including proficiency in React, Next.js, and the MERN stack.
+              I enjoy using my skills on real-world projects and freelancing, 
             </p>
 
             <div className="flex items-center space-x-3">
@@ -45,7 +43,7 @@ const Hero = () => {
                 <div>
                   <a
                     className="flex items-center text-white"
-                    href="https://github.com/puneeeeeeet"
+                    href="https://github.com/puneeeeeeet" target="_blank"
                   >
                     <AiOutlineGithub />
                     &nbsp;&nbsp;&nbsp;Github
@@ -53,8 +51,8 @@ const Hero = () => {
                 </div>
                 <div className="">
                   <a
-                    className="flex items-center text-white"
-                    href="https://www.linkedin.com/in/arnavshukla"
+                    className="flex items-center text-white" 
+                    href="https://www.linkedin.com/in/puneet-chhabra-3089b621b/" target="_blank"
                   >
                     <AiOutlineLinkedin />
                     &nbsp;&nbsp;&nbsp;Linkedin
@@ -63,13 +61,13 @@ const Hero = () => {
                 <div>
                   <a
                     className="flex items-center text-white"
-                    href="https://x.com/Puneeeeeeet"
+                    href="https://x.com/Puneeeeeeet" target="_blank"
                   >
                     <AiOutlineTwitter />
                     &nbsp;&nbsp;&nbsp;Twitter
                   </a>
                 </div>
-                <div>
+                {/* <div>
                   <a
                     className="flex items-center text-white"
                     href="https://www.instagram.com/puneetchhabra07"
@@ -77,7 +75,7 @@ const Hero = () => {
                     <AiOutlineInstagram />
                     &nbsp;&nbsp;&nbsp;Instagram
                   </a>
-                </div>
+                </div> */}
               </IconContext.Provider>
             </div>
           </div>

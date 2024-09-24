@@ -6,46 +6,44 @@ const Projects = () => {
           <section class="card-list ">
             <article class="card">
               <header class="card-header">
-                <p>Feb 2023</p>
+                <p>Dec 2022</p>
                 <p className="text-left">
-                  Web3 technology based donations app which enables secure and
-                  transparent transactions, allowing donors to have complete
-                  control over their donations without worrying about fraud or
-                  misuse.
+                Developed an interactive web-based Simon game where users follow a 
+                sequence of colors and sounds, testing their memory.Managed the game’s state and sequence tracking using JavaScript arrays and functions.
                 </p>
               </header>
   
               <div class="project-author ">
                 <div class="author-name">
-                  <div class="author-name-prefix text-white ">Altruize</div>
+                  <div class="author-name-prefix text-white ">Simon</div>
                 </div>
               </div>
   
               <div class="tags space-x-2">
-                <a href="https://altruize.vercel.app/">Live</a>
-                <a href="https://github.com/puneeeeeeet">Code</a>
+                <a href="https://animated-biscochitos-873777.netlify.app/" target="_blank">Live</a>
+                <a href="https://github.com/puneeeeeeet/Simon" target="_blank">Code</a>
               </div>
             </article>
             <article class="card">
               <header class="card-header">
                 <p>Jan 2023</p>
                 <p className="text-left">
-                  It was part of a submission for the buildspace bounties
-                  tournament where I won the prize pool of $200.
+                Built a simple clone of Spotify’s user interface that allows 
+                users to play music and navigate through a basic playlist.
                 </p>
               </header>
   
               <div class="project-author ">
                 <div class="author-name">
                   <div class="author-name-prefix text-white ">
-                    BUILDSPACE-BOUNTIES
+                    SpotifyClone
                   </div>
                 </div>
               </div>
   
               <div class="tags space-x-2">
-                <a href="https://buildspace-bounty.vercel.app/">Live</a>
-                <a href="https://github.com/thelordzeus/buildspace-bounty">
+                <a href="https://spotify-clone-phi-opal.vercel.app/" target="_blank">Live</a>
+                <a href="https://github.com/puneeeeeeet/SpotifyClone" target="_blank">
                   Code
                 </a>
               </div>
@@ -53,90 +51,87 @@ const Projects = () => {
   
             <article class="card">
               <header class="card-header">
-                <p>Jan 2023</p>
+                <p>Feb 2023</p>
                 <p className="text-left">
-                  A template code to make a whats app chat bot using twillio and
-                  chatSonic
+                Developed a simple and intuitive to-do list web application for managing daily tasks with ease.
+                Managed task data using JavaScript arrays and localStorage to ensure state persistence.
                 </p>
               </header>
   
               <div class="project-author ">
                 <div class="author-name">
-                  <div class="author-name-prefix text-white ">BHAII SUN</div>
+                  <div class="author-name-prefix text-white ">ToDoList</div>
                 </div>
               </div>
   
               <div class="tags space-x-2">
-                <a href="https://github.com/thelordzeus/bhaii-sun">Code</a>
+                <a href="https://github.com/puneeeeeeet/toDoList-v0.1" target="_blank">Code</a>
               </div>
             </article>
   
             <article class="card">
               <header class="card-header">
-                <p>Jan 2023</p>
+                <p>Dec 2023</p>
                 <p className="text-left">
-                  ContentGen is a chatGPT powered website that makes it easy for
-                  users to generate professional-quality LinkedIn posts with just
-                  a few clicks.
+                Created a web application for restaurant management,
+                 enabling users to book tables and order food online.
+                 Implemented state management for efficient data handling across components.  
                 </p>
               </header>
   
               <div class="project-author ">
                 <div class="author-name">
-                  <div class="author-name-prefix text-white ">CONTENT-GEN</div>
+                  <div class="author-name-prefix text-white ">FoodRepublic</div>
                 </div>
               </div>
   
               <div class="tags space-x-2">
-                <a href="https://my-content-gen.vercel.app/">Live</a>
-                <a href="https://github.com/thelordzeus/contentGen">Code</a>
+                <a href="https://euphonious-mandazi-fd5383.netlify.app/" target="_blank">Live</a>
+                <a href="https://github.com/puneeeeeeet/FoodRepublic" target="_blank">Code</a>
               </div>
             </article>
   
             <article class="card">
               <header class="card-header">
-                <p>Dec 2022</p>
+                <p>Jun 2024</p>
                 <p className="text-left">
-                  AssignDesk is an assignment manager app designed specifically
-                  for students. With AssignDesk, students can keep track of all
-                  their scheduled assignments in one convenient place.
+                Developed a full-stack web application to allow users to browse and rent houses in a specific area.
                 </p>
               </header>
   
               <div class="project-author ">
                 <div class="author-name">
-                  <div class="author-name-prefix text-white ">ASSIGN-DESK</div>
+                  <div class="author-name-prefix text-white ">TBM</div>
                 </div>
               </div>
   
               <div class="tags space-x-2">
-                <a href="https://assign-desk.vercel.app/">Live</a>
-                <a href="https://github.com/thelordzeus/assign-desk">Code</a>
+                <a href="https://tbm-frontend.vercel.app/" target="_blank">Live</a>
+                <a href="https://github.com/puneeeeeeet/TBM" target="_blank">Code</a>
               </div>
             </article>
   
             <article class="card">
               <header class="card-header">
-                <p>21 March 2022</p>
+                <p>Aug 2024</p>
                 <p className="text-left">
-                  A location for all of your social links, allowing others to
-                  easily contact you.
+                Developing a web platform designed to sell psychological courses online, aimed at helping users improve mental health and personal development.
                 </p>
               </header>
   
               <div class="project-author ">
                 <div class="author-name">
-                  <div class="author-name-prefix text-white ">MY LINKS</div>
+                  <div class="author-name-prefix text-white ">BrainStreamliner</div>
                 </div>
               </div>
   
               <div class="tags space-x-2">
-                <a href="https://allmysocials.vercel.app/">Live</a>
-                <a href="https://github.com/thelordzeus/my-link">Code</a>
+                <a href="https://brain-streamliner.vercel.app/" target="_blank">Live</a>
+                <a href="https://github.com/puneeeeeeet/BrainStreamliner" target="_blank">Code</a>
               </div>
             </article>
   
-            <article class="card">
+            {/* <article class="card">
               <header class="card-header">
                 <p>2 February 2021</p>
                 <p className="text-left">
@@ -154,7 +149,7 @@ const Projects = () => {
               <div class="tags space-x-2">
                 <a href="https://github.com/thelordzeus/HackerNews">Code</a>
               </div>
-            </article>
+            </article> */}
           </section>
         </div>
       </>

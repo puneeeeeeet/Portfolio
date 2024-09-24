@@ -41,6 +41,37 @@ const Experience = () => {
               {/* this is where you can add your certificates  */}
             </div>
           </article>
+
+          <article class="card">
+            <header class="card-header">
+              <p>16th JAN 2024</p>
+              <p className="text-left">
+                - Team created an app for students to connect with the college seniors.
+              </p>
+              <p className="text-left">
+                - To help students who have no-one to guide for their future. 
+              </p>
+            </header>
+
+            <div class="card-author">
+              <a class="author-avatar" href="https://hackoheist.devfolio.co/">
+                <img
+                  src="https://hackoheist.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb107fe2300b448648beb001354fb4e67%2Fassets%2Ffavicon%2F274.png&w=1440&q=75"
+                  alt="hackathon"
+                />
+              </a>
+              <svg class="half-circle" viewBox="0 0 106 57">
+                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+              </svg>
+
+              <div class="author-name">
+                <div class="author-name-prefix text-white">HACKATHON</div>
+                IDEATHON-2024
+              </div>
+            </div>
+          </article>
+
+
           <article class="card">
             <header class="card-header">
               <p>MAR - JUL 2024 </p>
@@ -128,35 +159,7 @@ const Experience = () => {
             <div class="tags"></div>
           </article> */}
 
-          <article class="card">
-            <header class="card-header">
-              <p>16th JAN,2024</p>
-              <p className="text-left">
-                - Team created an app for students to connect with the college seniors.
-              </p>
-              <p className="text-left">
-                - To help students who have no-one to guide for their future. 
-              </p>
-            </header>
-
-            <div class="card-author">
-              <a class="author-avatar" href="https://hackoheist.devfolio.co/">
-                <img
-                  src="https://hackoheist.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb107fe2300b448648beb001354fb4e67%2Fassets%2Ffavicon%2F274.png&w=1440&q=75"
-                  alt="hackathon"
-                />
-              </a>
-              <svg class="half-circle" viewBox="0 0 106 57">
-                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-              </svg>
-
-              <div class="author-name">
-                <div class="author-name-prefix text-white">HACKATHON</div>
-                IDEATHON-2024
-              </div>
-            </div>
-          </article>
-
+          
           <article class="card">
             <header class="card-header">
               <p>JUL- PRESENT 2024</p>

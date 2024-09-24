@@ -1,9 +1,9 @@
 
 const NavBar = () => {
     return (
-      <nav className="p-[20px] flex  items-center max-w-[600px] m-auto border-b-2 border-white o">
+      <nav className="p-[20px] flex  items-center max-w-[800px] m-auto border-b-2 border-white o">
         <h1 className="text-white font-bold text-2xl">Puneet Chhabra</h1>
-        <div className="  ml-auto z-10">
+        <div className="  ml-auto z-10"> 
           <div className="ml-16 no-underline space-x-3 text-red-600">
             <a href="https://drive.google.com/file/d/1mnvz1Ih4PihRn7n_qSnXEF758-qPZ8ZS/view?usp=drive_link" target="_blank"   >Resume</a>
            
