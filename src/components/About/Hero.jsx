@@ -1,6 +1,6 @@
 import React from "react";
 
-import profile from "./profile.jpg";
+import profile from "./profile3.jpg";
 import {
   AiOutlineGithub,
   AiOutlineLinkedin,

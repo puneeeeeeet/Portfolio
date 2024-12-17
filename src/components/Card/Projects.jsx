@@ -126,7 +126,7 @@ const Projects = () => {
               </div>
   
               <div class="tags space-x-2">
-                <a href="https://brain-streamliner.vercel.app/" target="_blank">Live</a>
+                <a href="https://brain-streamliner-v2.vercel.app/" target="_blank">Live</a>
                 <a href="https://github.com/puneeeeeeet/BrainStreamliner" target="_blank">Code</a>
               </div>
             </article>

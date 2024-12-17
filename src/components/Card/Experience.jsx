@@ -16,10 +16,10 @@ const Experience = () => {
               </p>
             </header>
 
-            <div class="card-author">
+            <div class="card-author text-start">
               <a
                 class="author-avatar"
-                href="https://codelancedevs.com/"
+                
                 target="_blank"
               >
                 <img
@@ -27,9 +27,7 @@ const Experience = () => {
                   alt="logo"
                 />
               </a>
-              <svg class="half-circle" viewBox="0 0 106 57">
-                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-              </svg>
+             
 
               <div class="author-name">
                 <div class="author-name-prefix text-white">INTERNSHIP</div>
@@ -53,16 +51,14 @@ const Experience = () => {
               </p>
             </header>
 
-            <div class="card-author">
-              <a class="author-avatar" href="https://hackoheist.devfolio.co/">
+            <div class="card-author text-start">
+              <a class="author-avatar" >
                 <img
                   src="https://hackoheist.devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fb107fe2300b448648beb001354fb4e67%2Fassets%2Ffavicon%2F274.png&w=1440&q=75"
                   alt="hackathon"
                 />
               </a>
-              <svg class="half-circle" viewBox="0 0 106 57">
-                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-              </svg>
+              
 
               <div class="author-name">
                 <div class="author-name-prefix text-white">HACKATHON</div>
@@ -83,16 +79,14 @@ const Experience = () => {
               </p>
             </header>
 
-            <div class="card-author">
-              <a class="author-avatar" href="https://www.rentyaar.com/">
+            <div class="card-author text-start">
+              <a class="author-avatar" >
                 <img
                   src="https://www.rentyaar.com/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Frentyaar-logo-png2.90dd241f39b046774afd2d6911fe0bb3.png&w=1920&q=75"
                   alt="logo"
                 />
               </a>
-              <svg class="half-circle" viewBox="0 0 106 57">
-                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-              </svg>
+              
 
               <div class="author-name">
                 <div class="author-name-prefix text-white">Free Lance</div>
@@ -168,16 +162,14 @@ const Experience = () => {
               </p>
             </header>
 
-            <div class="card-author">
-              <a class="author-avatar" href="https://hackoheist.devfolio.co/">
+            <div class="card-author text-start">
+              <a class="author-avatar" >
                 <img
                   src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZwRqw4J3AXvXO6EbZG3qSwAAAA%26pid%3DApi&f=1&ipt=a3f5f30389e992409a5b660a1da9805cee22682cb31d031283a6a617775314e9&ipo=images"
                   alt="hackathon"
                 />
               </a>
-              <svg class="half-circle" viewBox="0 0 106 57">
-                <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-              </svg>
+             
 
               <div class="author-name">
                 <div class="author-name-prefix text-white">Free Lance</div>

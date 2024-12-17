@@ -1,5 +1,6 @@
 import { AiOutlineLink, AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
 import zeusLogo from "../components/zeusLogo.jpg";
+import puneet from './puneet.jpg'
 
 export const Footer = () => {
   return (
@@ -9,7 +10,7 @@ export const Footer = () => {
           href="https://puneetchhabra.vercel.app/"
           className="flex items-center mb-4 sm:mb-0"
         >
-          <img src={zeusLogo} className="h-8 mr-3" alt="Lord Zeus Logo" />
+          <img src={puneet} className="h-8 mr-3" alt="Lord Zeus Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             Puneet Chhabra
           </span>
@@ -30,7 +31,7 @@ export const Footer = () => {
               target="_blank"
               className="mr-4 hover:underline md:mr-6 text-white"
             >
-              Linkdin
+              Linkedin
             </a>
           </li>
           <li>
@@ -49,7 +50,7 @@ export const Footer = () => {
       </div>
       <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
       <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
-        <a href="https://puneetchhabra.vercel.app/" className="hover:underline">
+        <a href="https://www.puneetchhabra.in/" className="hover:underline">
           "First we Vibe."
         </a>
       </span>
