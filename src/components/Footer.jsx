@@ -7,7 +7,7 @@ export const Footer = () => {
     <footer className="p-4 bg-black rounded-lg shadow md:px-6 md:py-8 mt-3">
       <div className="sm:flex sm:items-center sm:justify-between">
         <a
-          href="https://puneetchhabra.vercel.app/"
+          href="https://www.puneetchhabra.in/"
           className="flex items-center mb-4 sm:mb-0"
         >
           <img src={puneet} className="h-8 mr-3" alt="Lord Zeus Logo" />
