@@ -20,7 +20,7 @@ const Hero = () => {
               HELLO WORLD!
             </h1>
             <h1 className="text-4xl sm:text-7xl font-bold text-white text-left">
-              I'M Puneet Chhabra.
+              I'm Puneet Chhabra.
             </h1>
             <p className="text-gray-500 py-4 max-w-md text-left">
               Final year Computer Science Engineering student with hands-on experience in web development, including proficiency in React, Next.js, and the MERN stack.
