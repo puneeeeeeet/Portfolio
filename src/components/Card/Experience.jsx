@@ -11,7 +11,7 @@ const Experience = () => {
             <header class="card-header">
               <p>JUL - SEP 2023</p>
               <p className="text-left">- Frontend Developer Intern</p>
-              <p className="text-left">
+              <p className="text-left mt-10">
                 - Worked with Nextjs, Tailwind and APIs to build Dashboard for the company.
               </p>
             </header>
@@ -156,7 +156,7 @@ const Experience = () => {
           
           <article class="card">
             <header class="card-header">
-              <p>JUL- PRESENT 2024</p>
+              <p>JUL- Dec 2024</p>
               <p className="text-left">
                 - Working on a personal webiste of the customer to sell their courses online.
               </p>
@@ -174,6 +174,30 @@ const Experience = () => {
               <div class="author-name">
                 <div class="author-name-prefix text-white">Free Lance</div>
                 Brainstreamlinear
+              </div>
+            </div>
+          </article>
+
+          <article class="card">
+            <header class="card-header">
+              <p>Feb- Present 2025</p>
+              <p className="text-left">
+                - Working as a frontend developer intern
+              </p>
+            </header>
+
+            <div class="card-author text-start">
+              <a class="author-avatar" >
+                <img
+                  src="https://snehil.dev/images/experience/ieee.png"
+                  alt="hackathon"
+                />
+              </a>
+             
+
+              <div class="author-name">
+                <div class="author-name-prefix text-white">Free Lance</div>
+                Lawyaltech
               </div>
             </div>
           </article>
