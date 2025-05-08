@@ -11,7 +11,7 @@ const Experience = () => {
             <header class="card-header">
               <p>JUL - SEP 2023</p>
               <p className="text-left">- Frontend Developer Intern</p>
-              <p className="text-left mt-10">
+              <p className="text-left">
                 - Worked with Nextjs, Tailwind and APIs to build Dashboard for the company.
               </p>
             </header>
