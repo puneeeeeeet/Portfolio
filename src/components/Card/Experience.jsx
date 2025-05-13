@@ -30,7 +30,7 @@ const Experience = () => {
              
 
               <div class="author-name">
-                <div class="author-name-prefix text-white">INTERNSHIP</div>
+                <div class="author-name-prefix text-white">FRONTEND DEVELOPER INTERN</div>
                 PSup
               </div>
             </div>
@@ -89,7 +89,7 @@ const Experience = () => {
               
 
               <div class="author-name">
-                <div class="author-name-prefix text-white">Free Lance</div>
+                <div class="author-name-prefix text-white">FREE LANCE</div>
                 KISAAN24
               </div>
             </div>
@@ -156,7 +156,7 @@ const Experience = () => {
           
           <article class="card">
             <header class="card-header">
-              <p>JUL- Dec 2024</p>
+              <p>JUL- DEC 2024</p>
               <p className="text-left">
                 - Working on a personal webiste of the customer to sell their courses online.
               </p>
@@ -172,7 +172,7 @@ const Experience = () => {
              
 
               <div class="author-name">
-                <div class="author-name-prefix text-white">Free Lance</div>
+                <div class="author-name-prefix text-white">FULL-STACK DEVELOPER INTERN</div>
                 Brainstreamlinear
               </div>
             </div>
@@ -180,7 +180,7 @@ const Experience = () => {
 
           <article class="card">
             <header class="card-header">
-              <p>Feb- Present 2025</p>
+              <p>FEB- MAY 2025</p>
               <p className="text-left">
                 - Working as a frontend developer intern
               </p>
@@ -196,7 +196,7 @@ const Experience = () => {
              
 
               <div class="author-name">
-                <div class="author-name-prefix text-white">Free Lance</div>
+                <div class="author-name-prefix text-white">FRONTEND DEVELOPER INTERN</div>
                 Lawyaltech
               </div>
             </div>
