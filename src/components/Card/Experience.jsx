@@ -158,7 +158,7 @@ const Experience = () => {
             <header class="card-header">
               <p>JUL- DEC 2024</p>
               <p className="text-left">
-                - Developed a client&apso;s primary sales platform for online courses using React.js, creating 10+ reusable components.
+                - Developed a client's primary sales platform for online courses using React.js, creating 10+ reusable components.
               </p>
               <p className="text-left">
                 - Ensured mobile responsiveness and fast performance across devices.
