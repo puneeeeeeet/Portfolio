@@ -158,7 +158,10 @@ const Experience = () => {
             <header class="card-header">
               <p>JUL- DEC 2024</p>
               <p className="text-left">
-                - Working on a personal webiste of the customer to sell their courses online.
+                - Developed a client&apso;s primary sales platform for online courses using React.js, creating 10+ reusable components.
+              </p>
+              <p className="text-left">
+                - Ensured mobile responsiveness and fast performance across devices.
               </p>
             </header>
 
@@ -182,8 +185,9 @@ const Experience = () => {
             <header class="card-header">
               <p>FEB- MAY 2025</p>
               <p className="text-left">
-                - Working as a frontend developer intern
+                - Worked as a frontend developer intern
               </p>
+              <p className="text-left">- Built and maintained reusable, modular React.js components across multiple pages</p>
             </header>
 
             <div class="card-author text-start">
